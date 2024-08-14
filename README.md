@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[![MultiDoc RAG System Demo](C:\Users\ATHARSH\Downloads\Multi Doc Rag.mp4)
+![MultiDoc RAG System Demo](C:\Users\ATHARSH\Downloads\Multi Doc Rag.mp4)
 
 ## Table of Contents
 
