@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-![[thumb](https://github.com/user-attachments/assets/3e26f5e0-6799-4999-9b88-77fb16c3ad25)](https://github.com/user-attachments/assets/28c49cb0-a99d-444c-95ab-7280b303c757)
+![[thumb](https://github.com/AtharshKrishnamoorthy/RAG-Video/blob/main/thumb.jpg)](https://github.com/user-attachments/assets/28c49cb0-a99d-444c-95ab-7280b303c757)
 
 ## Table of Contents
 
