@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-![MultiDoc RAG System Demo](https://github.com/AtharshKrishnamoorthy/Multi-Doc-RAG-/blob/main/data/Multi%20Doc%20Rag.mp4)
+![MultiDoc RAG System Demo](https://github.com/user-attachments/assets/28c49cb0-a99d-444c-95ab-7280b303c757)
 
 ## Table of Contents
 
